@@ -32,4 +32,4 @@ __My Portfolio__
 </br>
 
 
-> "Push yourself, because no one else is going to do it for you."
+> "If life were predictable it would cease to be life, and be without flavor." -Eleanor Roosevelt
