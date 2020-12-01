@@ -1,4 +1,4 @@
-# Do You Know Me Quiz
+# Portfolio
 
 __My Portfolio__
 
@@ -18,7 +18,7 @@ __My Portfolio__
 
 ## Check the site hosted on netlify
 
-1. Access the quiz by going here <>
+1. Access the quiz by going here <https://saish-borkar.netlify.app/>
 
 
 <br/>
