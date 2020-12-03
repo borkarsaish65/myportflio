@@ -101,6 +101,10 @@ background:#f3f3f3;
 
     text-align: left !important;
 }
+.flex {
+    display:flex;
+    justify-content: space-between;
+}
 .btn-inverse {
     background: white;
 color: var(--primary-color);
